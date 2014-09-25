@@ -29,7 +29,7 @@ public class BuddyInfo {
 		x.setName(buddy);
 		System.out.println("Hello" + " " + x.getName());
 		System.out.println("Goodbye" + " " + x.getName());
-	
+		System.out.println("Ok" + " " + x.getName());
 	
 	}
 
