@@ -28,7 +28,7 @@ public static void main(String[] args){
 	list.addBuddy(x);
 	list.addBuddy(y);
 	list.removeBuddy(y);
-	
+	System.out.println("Hello");
 	}
 
 

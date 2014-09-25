@@ -28,7 +28,7 @@ public class BuddyInfo {
 		String buddy = "Homer";
 		x.setName(buddy);
 		System.out.println("Hello" + " " + x.getName());
-	
+		System.out.println("Goodbye" + " " + x.getName());
 	
 	
 	}
